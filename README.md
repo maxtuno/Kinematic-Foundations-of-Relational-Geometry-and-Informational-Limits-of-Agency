@@ -1,3 +1,7 @@
+A unified mathematical framework for discrete relational geometry and operational limits of influence in local physical systems is systematized. The formal core is structured into four interconnected modules: (A) an exact arithmetic interface for satisfiability in restricted domains (balanced CNFs); (B) epistemic curvature as a metric measure of structural incompleteness under a derivational refinement principle; (C) the Layered Metric Space (LMS) as variational discrete kinematics with materialization transitions; and (D) agency limits derived from Lieb-Robinson-type bounds with explicit constants. Agency is formalized as the operational capacity to induce remote distinguishability, subject to exponential suppression by the underlying graph geometry. The framework yields technical tools with collateral applications in quantum computing, control theory, and network analysis. Cosmological extensions (dark energy as influence decay, dark matter as geometric rigidity) are presented strictly as open research programs, with their observational limitations explicitly stated, highlighting partial empirical refutation by phenomena such as the Bullet Cluster.
+
+---
+
 # Polímata Research Project
 
 ## Project Nature
@@ -67,3 +71,4 @@ Legally binding terms are defined exclusively in the `LICENSE` file.
 ---
 
 For commercial licensing, see `COMMERCIAL.md`.
+
